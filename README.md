@@ -23,8 +23,12 @@ Here are some of the projects which I am most proud of:
 - [dyma](https://github.com/dyscott/dyma) - Dynamic Memory Allocator written from scratch in C
 
 ## Stats
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dyscott&theme=dark)
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dyscott&theme=dark)
+<p align="center">
+  <img alt="Profile Details" src="https://github-readme-stats.vercel.app/api/top-langs?username=dyscott&theme=dark" />
+</p>
+<p align="center">
+  <img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dyscott&theme=dark" />
+</p>
 <!--
 **dyscott/dyscott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
