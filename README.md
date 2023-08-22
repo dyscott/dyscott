@@ -10,7 +10,7 @@ I'm a 22-year-old CS student and aspiring Software Engineer based in New York. A
 - 👀 Interested in Computer Architecture, Cloud Computing, and AI / ML
 - ❤️ Love photography, music, and painting
 
-## Programming
+## Programming Skills
 - 🎨 **Frontend**: HTML/CSS/JS, TypeScript, GraphQL, React, Svelte, Tailwind UI
 - ⚙️ **Backend**: Java, Python, Go, Rust, C, C#, OCaml, MongoDB, SQL
 - 🧑‍🏭 **Infrastructure**: Docker, Unix / Linux, AWS, GCP, Azure
