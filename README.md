@@ -24,7 +24,7 @@ Here are some of the projects which I am most proud of:
 
 ## Stats
 <p align="center">
-  <img alt="Profile Details" src="https://github-readme-stats.vercel.app/api/top-langs?username=dyscott&theme=dark" />
+  <img alt="Profile Details" src="https://github-readme-stats.vercel.app/api/top-langs?username=dyscott&theme=dark&exclude_repo=sifting-through-trash" />
 </p>
 <p align="center">
   <img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dyscott&theme=dark" />
