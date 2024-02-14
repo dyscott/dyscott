@@ -6,12 +6,12 @@ I'm a 22-year-old CS student and aspiring Software Engineer based in New York. A
 - 💼 2023 Software Engineering Intern @ JP Morgan Chase
 - 🧑‍💻 Lead Student Technician @ SBU Division of IT
 - 🔬 Undergraduate Research Assistant @ [COMPAS Lab](https://compas.cs.stonybrook.edu/)
-- 🧑‍🏫 Teaching Assistant for System Fundamentals I
+- 🧑‍🏫 Teaching Assistant for System Fundamentals I (Fall 2023)
 - 👀 Interested in Computer Architecture, Cloud Computing, and AI / ML
 - ❤️ Love photography, music, and painting
 
 ## Programming Skills
-- 🎨 **Frontend**: HTML/CSS/JS, TypeScript, GraphQL, React, Svelte, Tailwind UI
+- 🎨 **Frontend**: HTML/CSS/JS, TypeScript, GraphQL, React, Svelte, Flutter / Dart
 - ⚙️ **Backend**: Java, Python, Go, Rust, C, C#, OCaml, MongoDB, SQL
 - 🧑‍🏭 **Infrastructure**: Docker, Unix / Linux, AWS, GCP, Azure
 
