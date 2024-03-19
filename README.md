@@ -18,9 +18,10 @@ I'm a 22-year-old CS student and aspiring Software Engineer based in New York. A
 ## Projects
 Here are some of the projects which I am most proud of:
 - [monkey-rs](https://github.com/dyscott/monkey-rs) - Interpreter and Compiler written from scratch in Rust (WIP)
-- [BinBuddy](https://github.com/snitski/BinBuddy) - AI Recycling Companion made for Hack@CEWIT 2023 Hackathon
-- [Playlister](https://github.com/dyscott/playlister) - Full-stack MERN Spotify Clone
 - [dyma](https://github.com/dyscott/dyma) - Dynamic Memory Allocator written from scratch in C
+- [Playlister](https://github.com/dyscott/playlister) - Full-stack MERN Spotify Clone
+- [BinBuddy](https://github.com/snitski/BinBuddy) - AI Recycling Companion, made for Hack@CEWIT 2023 Hackathon
+- [Fumble](https://github.com/dyscott/fumble) - Project partner finder for CS students, made for SBUHacks 2024 Hackathon
 
 ## Stats
 <p align="center">
