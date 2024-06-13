@@ -3,7 +3,7 @@
 ## About Me
 I'm a 22-year-old CS student and aspiring Software Engineer based in New York. A few things about me:
 - 🎓 BS / MS in CS at Stony Brook University (Class of 2025)
-- 💼 2023 Software Engineering Intern @ JP Morgan Chase
+- 💼 Software Engineering Intern @ JP Morgan Chase (2023, 2024)
 - 🧑‍💻 Lead Student Technician @ SBU Division of IT
 - 🔬 Undergraduate Research Assistant @ [COMPAS Lab](https://compas.cs.stonybrook.edu/)
 - 🧑‍🏫 Teaching Assistant for System Fundamentals I (Fall 2023)
@@ -13,11 +13,11 @@ I'm a 22-year-old CS student and aspiring Software Engineer based in New York. A
 ## Programming Skills
 - 🎨 **Frontend**: HTML/CSS/JS, TypeScript, GraphQL, React, Svelte, Flutter / Dart
 - ⚙️ **Backend**: Java, Python, Go, Rust, C, C#, OCaml, MongoDB, SQL
-- 🧑‍🏭 **Infrastructure**: Docker, Unix / Linux, AWS, GCP, Azure
+- 🧑‍🏭 **Infrastructure**: Docker, Kubernetes, Terraform, Unix / Linux, AWS, GCP, Azure
 
 ## Projects
 Here are some of the projects which I am most proud of:
-- [monkey-rs](https://github.com/dyscott/monkey-rs) - Interpreter and Compiler written from scratch in Rust (WIP)
+- [monkey-rs](https://github.com/dyscott/monkey-rs) - Interpreter and Compiler written from scratch in Rust
 - [dyma](https://github.com/dyscott/dyma) - Dynamic Memory Allocator written from scratch in C
 - [Playlister](https://github.com/dyscott/playlister) - Full-stack MERN Spotify Clone
 - [BinBuddy](https://github.com/snitski/BinBuddy) - AI Recycling Companion, made for Hack@CEWIT 2023 Hackathon
